@@ -1,3 +1,4 @@
+DEMO INFORMATION: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pburlacu-opus2_sonarqube_setup&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pburlacu-opus2_sonarqube_setup)
 ## Pre-requisite(s)
 
 The only prerequisite of running SonarQube is to have Java (Oracle JRE 8 or OpenJDK 8) installed on your machine .`https://docs.sonarqube.org/display/SONAR/Requirements`
